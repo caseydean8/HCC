@@ -22,10 +22,10 @@ function Home() {
           what political party you support. But we do care about you! We are not
           perfect people, we are all broken in some way and coming to know
           Jesus. You don't have to know a secret handshake or any religious
-          rituals to understand our service. We just study the bible
-          line-by-line, verse-by-verse, and in a way anyone can understand. We
-          want something for you, not something from you. And we hope you will
-          call this your home, become part of our family, and join our mission!
+          rituals to join our service. We just study the bible line-by-line,
+          verse-by-verse, in a way anyone can understand. We want something for
+          you, not something from you. We hope you will call this your home,
+          become part of our family, and join our mission!
         </h4>
         <div className="mt-4">
           <h3>1113 Church Street</h3>
