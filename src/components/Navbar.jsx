@@ -1,7 +1,6 @@
 import { useState, useEffect } from "react";
 import "./Navbar.css";
 import { NavLink, useNavigate } from "react-router-dom";
-// import logo from "../assets/hcc-new-logo_3.jpg";
 
 const Navbar = () => {
   const [isDesktop, setDesktop] = useState(window.innerWidth > 768);
